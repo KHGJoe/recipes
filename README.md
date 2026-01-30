@@ -1,2 +1,2 @@
 # recipes
-~a collection of my cooking recipes~
+~ a collection of my cooking recipes ~
